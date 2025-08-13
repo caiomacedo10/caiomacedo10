@@ -1,49 +1,41 @@
 <h1 align="center">👋 Olá, eu sou o Caio!</h1>
 
 <p align="center">
-  Desenvolvedor focado em <strong>Front-end</strong> e estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> com bolsa integral pelo ProUni.<br>
-  Atualmente estou em busca da minha <strong>primeira oportunidade</strong> na área de programação para colocar em prática minhas habilidades e crescer junto com a equipe.
+💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprendizado.  
+🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> com foco em me tornar um <strong>Programador Full Stack</strong>.  
+🚀 Em constante evolução, criando soluções inovadoras e eficientes para o mundo real.
 </p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+## ✅ Tecnologias que domino
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Formação e Cursos
-- 🎓 Estudante de ADS — ProUni
-- 📜 Certificados DevClub: HTML, CSS, Git, GitHub, JavaScript Intermediário
-
----
-
-### 📊 Estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
-### 🔥 Streak de Contribuições
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=caiomacedo10&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
+## 📬 Contato
+<p align="center" style="line-height:1.8;">
+  📧 <a href="mailto:caiotamane12@gmail.com">caiotamane12@gmail.com</a><br>
+  LinkedIn: <span>www.linkedin.com/in/caio-de-oliveira-macedo-</span>
 </p>
 
 ---
 
-<p align="center">
-  💼 Disponível para início imediato | 📍 Brasil
-</p>
+<p align="center"><i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i> 💡</p>
 
----
-
-<p align="center"><em>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</em></p>
