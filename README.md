@@ -32,7 +32,7 @@
 ## 📬 Contato
 <p align="center" style="line-height:1.8;">
   📧 <a href="mailto:caiotamane12@gmail.com">caiotamane12@gmail.com</a><br>
-  LinkedIn: <span>www.linkedin.com/in/caio-de-oliveira-macedo-</span>
+  LinkedIn: <spanwww.linkedin.com/in/caiomacedo-de</span>
 </p>
 
 ---
