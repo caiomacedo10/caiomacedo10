@@ -40,7 +40,7 @@
   <a href="https://github.com/caiomacedo10" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://caiomacedo10.github.io" target="_blank">
+  <a href="https://caiomacedo10.github.io/Portfolio-Caio-Macedo/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-FF5722?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
 </p>
