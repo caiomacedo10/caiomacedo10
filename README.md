@@ -1,14 +1,14 @@
-<h1 align="center">👋 Olá, eu sou o Caio!</h1>  
+<h1 align="center"> Olá, eu sou o Caio!</h1>  
 
 <p align="center"> 
-  💻 Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprendizado.  
-  🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> com foco em me tornar um <strong>Programador Full Stack</strong>.  
-  🚀 Em constante evolução, criando soluções inovadoras e eficientes para o mundo real. 
+   Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprendizado.  
+   Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> com foco em me tornar um <strong>Programador Full Stack</strong>.  
+   Em constante evolução, criando soluções inovadoras e eficientes para o mundo real. 
 </p>  
 
 ---
 
-## ✅ Tecnologias que domino  
+##  Tecnologias que domino  
 <p align="center">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+##  Estatísticas do GitHub  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />  
@@ -29,7 +29,7 @@
 
 ---
 
-## 📬 Contato  
+##  Contato  
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caiotamane12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
