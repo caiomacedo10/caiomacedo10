@@ -21,11 +21,7 @@
 
 ---
 
-##  Estatísticas do GitHub  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />  
-</p>
+
 
 ---
 
