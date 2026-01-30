@@ -22,17 +22,19 @@
 ---
 
 ## Meu Github Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=radical" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiomacedo10&theme=radical" alt="Streak de Contribuições" />
+  <img src="https://streak-stats.demolab.com?user=caiomacedo10&theme=radical" />
 </p>
+
 
 ---
 
