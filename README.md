@@ -19,6 +19,22 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />  
 </p>  
 
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="165"
+  />
+</p>
+
+
 
 ##  Contato  
 <p align="center">
