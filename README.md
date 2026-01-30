@@ -43,4 +43,4 @@
 
 ---
 
-<p align="center"><i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i> 💡</p>
+<p align="center"><i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i> </p>
