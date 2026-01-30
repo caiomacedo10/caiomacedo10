@@ -1,15 +1,14 @@
-<h1 align="center">Olá, eu sou o Caio! 👋</h1>
+<h1 align="center">Olá, eu sou o Caio 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprendizado.<br/>
-  Cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, com foco em me tornar um<br/>
-  <strong>Programador Full Stack</strong>.<br/>
-  Estou em constante evolução, criando soluções práticas, modernas e eficientes para o mundo real.
+  Desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo.<br/>
+  Cursando <strong>Análise e Desenvolvimento de Sistemas</strong>.<br/>
+  Focado em evoluir como <strong>Desenvolvedor Front-end</strong> e futuramente Full Stack.
 </p>
 
 ---
 
-## 🚀 Tecnologias que domino
+## 🚀 Tecnologias que utilizo
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,15 +22,28 @@
 
 ---
 
-## 📊 Meu GitHub Stats
+## 📊 Métricas do GitHub (reais e confiáveis)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/caiomacedo10/github-stats/master/generated/overview.svg" alt="GitHub Stats Overview"/>
+  <img src="https://img.shields.io/github/commit-activity/m/caiomacedo10/caiomacedo10?style=for-the-badge&label=Commits"/>
+  <img src="https://img.shields.io/github/stars/caiomacedo10?style=for-the-badge&label=Stars"/>
+  <img src="https://img.shields.io/github/followers/caiomacedo10?style=for-the-badge&label=Followers"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/caiomacedo10/github-stats/master/generated/languages.svg" alt="Top Languages"/>
+  <sub>📌 Métricas diretas do GitHub — sem gráficos enganosos.</sub>
 </p>
+
+---
+
+## 📌 Projetos em destaque
+
+- 🎮 **Jokenpô** — lógica e eventos em JavaScript  
+- 🍔 **Projeto Burger** — front-end com JS  
+- 🎲 **Sorteador Profissional** — HTML + CSS  
+- 🧱 **Encarnadores Mario & Luigi** — layout responsivo  
+
+👉 Veja mais projetos no meu GitHub 👇
 
 ---
 
