@@ -21,11 +21,11 @@
 
 ---
 
-## Linguagens principais no meu repositório  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&repo=caiomacedo10&layout=compact&theme=light" alt="Top Linguagens" />
-</p>
+## Linguagens principais no meu perfil
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=light" alt="Top Linguagens" />
+</p>
 ---
 
 ## Contato  
