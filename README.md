@@ -1,15 +1,15 @@
 <h1 align="center">Olá, eu sou o Caio! 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação, apaixonado por tecnologia e aprendizado contínuo.<br/>
+  Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprendizado.<br/>
   Cursando <strong>Análise e Desenvolvimento de Sistemas</strong>, com foco em me tornar um<br/>
-  <strong>Desenvolvedor Full Stack</strong>.<br/>
-  Busco criar soluções modernas, práticas e bem estruturadas para problemas reais.
+  <strong>Programador Full Stack</strong>.<br/>
+  Estou em constante evolução, criando soluções práticas, modernas e eficientes para o mundo real.
 </p>
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias que domino
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,28 +23,15 @@
 
 ---
 
-## 📊 Atividade no GitHub
+## 📊 Meu GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=caiomacedo10&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Activity Stats"
-  />
+  <img src="https://raw.githubusercontent.com/caiomacedo10/github-stats/master/generated/overview.svg" alt="GitHub Stats Overview"/>
 </p>
 
 <p align="center">
-  <sub>📌 Gráfico focado em atividade real (commits, PRs e consistência).</sub>
+  <img src="https://raw.githubusercontent.com/caiomacedo10/github-stats/master/generated/languages.svg" alt="Top Languages"/>
 </p>
-
----
-
-## 📌 Projetos em destaque
-- 🎮 **Jokenpô** — lógica em JavaScript  
-- 🍔 **Projeto Burger** — front-end com JS  
-- 🎲 **Sorteador Profissional** — HTML + CSS  
-- 🧱 **Encarnadores Mario & Luigi** — layout e estilização  
-
-👉 Mais projetos no meu GitHub 👇
 
 ---
 
