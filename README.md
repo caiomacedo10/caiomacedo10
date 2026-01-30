@@ -21,21 +21,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caiomacedo10&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caiomacedo10&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
-
-
 ##  Contato  
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caiotamane12@gmail.com" target="_blank">
