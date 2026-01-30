@@ -23,7 +23,7 @@
 
 ## Meu Github Stats  
 <p align="center">
-  <img src="https://github-stats.jstrieb.dev/api?username=caiomacedo10&show_icons=true&count_private=true&theme=dark" alt="Github Stats" />
+  <img src="https://github-stats.jstrieb.dev/api?username=caiomacedo10&show_icons=true&count_private=false&theme=light" alt="Github Stats" />
 </p>
 
 ---
