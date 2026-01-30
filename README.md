@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou o Caio!</h1>  
+<h1 align="center">Olá, eu sou o Caio!</h1>  
 
 <p align="center"> 
    Desenvolvedor em formação, apaixonado por tecnologia e sempre em busca de aprendizado.  
@@ -8,7 +8,7 @@
 
 ---
 
-##  Tecnologias que domino  
+## Tecnologias que domino  
 <p align="center">  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
@@ -19,8 +19,16 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />  
 </p>  
 
+---
 
-##  Contato  
+## Linguagens principais no meu repositório  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomacedo10&repo=caiomacedo10&layout=compact&theme=light" alt="Top Linguagens" />
+</p>
+
+---
+
+## Contato  
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caiotamane12@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
